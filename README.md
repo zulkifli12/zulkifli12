@@ -53,8 +53,8 @@ Welcome to my GitHub profile! I'm a dedicated programmer with expertise in devel
 
 ## 📫 How to Reach Me
 
-- **Email:** [Insert your email here]
-- **LinkedIn:** [Insert LinkedIn profile]
+- **Email:** [zulkiflioccez@gmail.com]
+- **LinkedIn:** [zulkifli-zulkifli](https://www.linkedin.com/in/zulkifli-zulkifli-770847388/)e]
 - **GitHub:** [@zulkifli12](https://github.com/zulkifli12)
 
 Feel free to check out my repositories and let's connect!
